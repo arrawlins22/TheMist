@@ -1,0 +1,7 @@
+name: CombatItems
+version: 1.0-SNAPSHOT
+main: themist.combatitems.CombatItems
+api-version: 1.13
+
+commands:
+  weapons:
