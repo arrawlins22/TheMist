@@ -1,0 +1,4 @@
+name: MiningAndLogging
+version: ${project.version}
+main: themist.miningandlogging.MiningAndLogging
+api-version: 1.13

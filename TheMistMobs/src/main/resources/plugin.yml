@@ -1,0 +1,4 @@
+name: Mobs
+version: ${project.version}
+main: themist.mobs.Mobs
+api-version: 1.13
